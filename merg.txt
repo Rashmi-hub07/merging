@@ -3,10 +3,13 @@
     <head>
         <title>YOGA DAY</title>
         <style type="text/css">
-        <origin{      border:solid;
+        #origin{      border:solid;
                       height:400px;
                        
                 }
         </style>
-    </head>
+    </head>	    
+    <body>
+    <div class="box">Content</div>
+</body>
 </html>
