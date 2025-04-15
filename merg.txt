@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>YOGA DAY</title>
-        <style type="text/css">
-        #origin{      border:solid;
-                      height:400px;
-                       
-                }
-        </style>
-    </head>	    
+        <title>YOGA DAY</title>    
     <body>
     <div class="box">Content</div>
-</body>
+    </body>
+  </head>
 </html>
