@@ -3,15 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inline CSS Example</title>
 </head>
 <body>
-
     <h1 style="color: blue; text-align: center;">Hello, World!</h1>
     <p style="font-size: 18px; color: green;">This is a paragraph with inline CSS.</p>
     <button style="background-color: red; color: white; padding: 10px 20px; border: none; cursor: pointer;">
         Click Me
     </button>
 
+    <title>Fitness Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Fitness Tracker</h1>
+    </header>
+
+    <main>
+        <!-- Workout Input Section -->
+        <section id="workout-form">
+            <h2>Log Your Workout</h2>
+            <label for="exercise">Exercise:</label>
+            <input type="text" id="exercise" placeholder="e.g., Push-ups">
+
+            <label for="duration">Duration (minutes):</label>
+            <input type="number" id="duration" placeholder="e.g., 30">
+
+            <button onclick="logWorkout()">Log Workout</button>
+        </section>
+
+        <!-- Workout Display Section -->
+        <section id="workout-history">
+            <h2>Workout History</h2>
+            <ul id="workout-list"></ul>
+        </section>
+
+        <!-- Workout Recommendations -->
+        <section id="workout-recommendations">
+            <h2>Recommended Workouts</h2>
+            <div id="recommendations"></div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+>>>>>>> master
 </body>
 </html>
