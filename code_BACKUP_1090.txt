@@ -1,0 +1,59 @@
+<html>
+    <head>
+<<<<<<< HEAD
+       <style>
+        p.dot{border-style:soild;}
+        #a2{
+            text-align:left;
+            color:rgb(18, 18, 214);
+        }
+        #a1{
+            text-align:left;
+            color:rgb(197, 42, 42);
+        }
+        body{
+            background-color: rgb(197, 146, 79);
+        }
+       </style>
+    </head>
+    <body>      
+          <h1 id="a1"> SINCLAIR RESTAURANT</h1>
+
+          <P class="p.dot" id="a2"> PANEER CHILLI  -    80 </P>
+          <P class="p.dot" id="a2"> CORN MANCHURI  -    80 </P>
+          <P class="p.dot" id="a2"> CHILLI CHIKEN  -    120 </P>
+=======
+        <style>
+            #a1{
+                text-align: center;
+                color: rgb(7, 4, 209);
+                margin: 0;
+                padding: 20px;
+                border: 10px;
+            }
+            a.su{
+                font: italic small-caps bold 12px;
+                border-style: solid;
+            }
+            #a2{
+                text-align: center;
+            }
+          body{ background-color: rgb(163, 73, 123);}
+          #a3{
+            color:rgb(167, 132, 6);
+          }
+        </style>
+    </head>
+    <body>
+      <h1 id="a1"> SINCLAIR UNIVERSITY </h1>
+      <h4 class="a.su" id="a2"id="a3">Devanahalli City, Bengaluru Rural, Karnataka, India </h2>
+      <p class="a.su"id="a3"> As the name describes the university has completed that 101 year of the etablishment.</p> 
+      <p class="a.su"id="a3"> Ranked top 3rd Best University across the globe.</p>
+      <p class="a.su"id="a3"> One of the top universities in the world having spread across the world. </p>
+      <p class="a.su"id="a3"> Students are exposed to real time problems to enhance their skills, industrial trips are conducted with intership programs.</p>
+      <p class="a.su"id="a3"> Have the track record of 100% placements every year. </p>
+      <p class="a.su"id="a3"> Hostel, Transport, Canteen, Sports facilities are available along with scholarshilps programs for students.</p>
+      <p class="a.su"id="a3"> Students are free to decide their majors in the subject of their choice.</p>
+>>>>>>> master1
+    </body>
+</html>
