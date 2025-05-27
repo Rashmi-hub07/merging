@@ -1,5 +1,6 @@
 <html>
     <head>
+<<<<<<< HEAD
        <style>
         p.dot{border-style:soild;}
         #a2{
@@ -21,6 +22,7 @@
           <P class="p.dot" id="a2"> PANEER CHILLI  -    80 </P>
           <P class="p.dot" id="a2"> CORN MANCHURI  -    80 </P>
           <P class="p.dot" id="a2"> CHILLI CHIKEN  -    120 </P>
+=======
         <style>
             #a1{
                 text-align: center;

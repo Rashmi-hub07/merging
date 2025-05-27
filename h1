@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Outpass Confirmation</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h2>Outpass Request Submitted Successfully!</h2>
+  
+    <a href="day_outpass.html"> </a>
+    <a href="custom_outpass.html"> </a>
+    <a href="free_pass.html"> </a>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

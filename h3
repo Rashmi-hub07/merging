@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Dayscholar Outpass </title>
+    
+</head>
+<body>
+      <h1 a herf = "index.html"></a> Dayscholar Outpass </h1>
+       
+       <form action="submit_day_outpass.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="date"> Date:</label>
+        <input type="date" id="date" name="date" required><br><br>
+        
+        <label for="reason">Reason:</label>
+        <textarea id="reason" name="reason" required></textarea><br><br>
+
+       
+    </form>
+
+     <script>
+    function goToNextPage() {
+        window.location.href = "end_page.html";
+    }
+</script>
+
+<button onclick="goToNextPage()">Submit</button>
+
+</body>
+</html>
+

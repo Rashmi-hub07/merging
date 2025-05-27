@@ -1,26 +1,5 @@
 <html>
     <head>
-       <style>
-        p.dot{border-style:soild;}
-        #a2{
-            text-align:left;
-            color:rgb(18, 18, 214);
-        }
-        #a1{
-            text-align:left;
-            color:rgb(197, 42, 42);
-        }
-        body{
-            background-color: rgb(197, 146, 79);
-        }
-       </style>
-    </head>
-    <body>      
-          <h1 id="a1"> SINCLAIR RESTAURANT</h1>
-
-          <P class="p.dot" id="a2"> PANEER CHILLI  -    80 </P>
-          <P class="p.dot" id="a2"> CORN MANCHURI  -    80 </P>
-          <P class="p.dot" id="a2"> CHILLI CHIKEN  -    120 </P>
         <style>
             #a1{
                 text-align: center;
@@ -52,6 +31,5 @@
       <p class="a.su"id="a3"> Have the track record of 100% placements every year. </p>
       <p class="a.su"id="a3"> Hostel, Transport, Canteen, Sports facilities are available along with scholarshilps programs for students.</p>
       <p class="a.su"id="a3"> Students are free to decide their majors in the subject of their choice.</p>
->>>>>>> master1
     </body>
 </html>
